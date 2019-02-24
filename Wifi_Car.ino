@@ -28,7 +28,7 @@ int dutyCycle = 512;    //0 - 1023
 
 void setup()
 {
-   pinMode(leftMotorForward, OUTPUT);
+  pinMode(leftMotorForward, OUTPUT);
   pinMode(rightMotorForward, OUTPUT); 
   pinMode(leftMotorBackward, OUTPUT);  
   pinMode(rightMotorBackward, OUTPUT);
